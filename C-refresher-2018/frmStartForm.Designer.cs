@@ -1,6 +1,6 @@
 ﻿namespace C_refresher_2018
 {
-    partial class Form1
+    partial class frmStartForm
     {
         /// <summary>
         /// Required designer variable.

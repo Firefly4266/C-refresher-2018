@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace C_refresher_2018
 {
-    public partial class Form1 : Form
+    public partial class frmStartForm : Form
     {
-        public Form1()
+        public frmStartForm()
         {
             InitializeComponent();
         }
